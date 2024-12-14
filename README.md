@@ -1,0 +1,1 @@
+This repository contains an example of an uncommon HTML error: an unclosed div tag. The `bug.html` file demonstrates the error, while `bugSolution.html` provides the corrected code.  Unclosed tags can lead to unexpected layout issues and prevent the page from rendering correctly.  Always ensure that all opening tags have corresponding closing tags.
